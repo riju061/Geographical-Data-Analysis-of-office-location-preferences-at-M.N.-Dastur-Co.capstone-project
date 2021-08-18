@@ -1,3 +1,5 @@
+## NOTE :  unfortunately the folium maps do not seem to render on GitHub natively. I think it likely has something to do with the site's settings on running JavaScript. However, you should be able to drop the github link to your .ipynb file into nbviewer.org and get a full dynamic output, when provided a valid folium.Map instance
+
 # Data Analysis project on office locations - M.N.Dastur
 ### Business Problem:
 As a reputed consultancy firm in the field of steel market, the company established din 1965 has worked extensively with Indian as well as with many foreign steel plants They are now diversifying their field of interest and thus moving into the oil and gas and synthetic product market and are focusing on dedicating teams with exclusive offices for venturing into the diverse fields.
